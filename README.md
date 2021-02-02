@@ -5,3 +5,4 @@ to install dependencies, use:
 ```shell
 pip install turtle
 ```
+*What?You didn't have Pip?*
